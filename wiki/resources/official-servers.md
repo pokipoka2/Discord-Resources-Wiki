@@ -33,3 +33,8 @@ description: Official servers owned by Discord.
 **Link:** [Discord Safety](https://discord.gg/safety)
 
 @gg/safety
+
+## Discord testeur communauty ( dtest)
+
+> **Description:** the official server of the discord tester to join this server you need a proposal from discord to join dtest and signed a confidentiality contract.
+**link:** [discord testeur ( postulate ) ] (https://discord.com/wumpus-feedback-squad)
